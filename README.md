@@ -1,0 +1,1 @@
+This Project describes how to use tables to create a responsive website using HTML.
